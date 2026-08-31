@@ -12,8 +12,8 @@ exponent=a**b
 floor_diva=a//b
 
 print("The sum of",a,"and ",b,"is",sum)
-print("The difference of",a,"-",b,"is",diff)
-print("The product of",a,"*",b,"is",product)
-print("The modulus of",a,"%",b,"is",modulus)
-print("The exponent of",a,"**",b,"is",exponent)
-print("The floor_diva of",a,"//",b,"is",floor_diva)
+print("The difference of",a,"and",b,"is",diff)
+print("The product of",a,"and",b,"is",product)
+print("The modulus of",a,"and",b,"is",modulus)
+print("The exponent of",a,"and",b,"is",exponent)
+print("The floor_diva of",a,"and",b,"is",floor_diva)
